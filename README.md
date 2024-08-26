@@ -23,7 +23,7 @@ Running the Application
 Clone the Repository:
 bash
 Copy code
-git clone https://github.com/yourusername/restaurant-billing-system.git
+git clone https://github.com/afzal-nezam/restaurant-billing-system.git
 
 Navigate to the Project Directory:
 bash
